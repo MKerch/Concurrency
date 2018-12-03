@@ -1,0 +1,7 @@
+com\mycocompany\lock\Main.class
+com\mycompany\myracecondition\MyThreadA.class
+com\mycompany\myracecondition\MyThreadB.class
+com\mycocompany\lock\MyConsumer.class
+com\mycompany\myracecondition\MyDataService.class
+com\mycocompany\lock\MyProducer.class
+com\mycompany\myracecondition\Main.class
